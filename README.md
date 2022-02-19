@@ -41,10 +41,8 @@
 
 <img src="https://img.shields.io/badge/AutoCad-007396?style=for-the-badge&logo=Autodesk&logoColor=white">  <!--오토캐드-->
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&layout=compact&theme=tokyonight)](https://github.com/BAE-JI-WANG/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/BAE-JI-WANG)  
 
