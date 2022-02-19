@@ -1,8 +1,9 @@
-[<img src='https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](bjy502@gmail.com)
-[<img src='https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jiwang-bae-ab3802206/)  
 
-<!-- <a href="bjy502@gmail.com"><img src="https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jiwang-bae-ab3802206/"><img src="https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> -->
+<!-- [<img src='https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white' alt='gmail' height='30'>](bjy502@gmail.com)
+[<img src='https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jiwang-bae-ab3802206/)   -->
+
+<a href="bjy502@gmail.com"><img src="https://img.shields.io/badge/bjy502@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jiwang-bae-ab3802206/"><img src="https://img.shields.io/badge/Jiwang Bae-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Jiwang%20BAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
