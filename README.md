@@ -35,11 +35,16 @@
 <img src="https://img.shields.io/badge/AutoCad-007396?style=for-the-badge&logo=Autodesk&logoColor=white">  <!--오토캐드-->
 
 
-- 🔭 I’m currently working on this page. 
 
------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/BAE-JI-WANG)  
+
+----
+
+## 🔭 Project
+
+### [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
+### [소비자용 유통기한관리 어플리케이션 "언제무꼬"] (https://github.com/BAE-JI-WANG/whenToEat)
 
