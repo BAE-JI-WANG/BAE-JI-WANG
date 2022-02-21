@@ -52,5 +52,5 @@
 
 ### [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)
 ### [소비자용 유통기한관리 어플리케이션 "언제무꼬"] (https://github.com/BAE-JI-WANG/whenToEat)
-### [공공도서관 통합 ] (https://github.com/BAE-JI-WANG/Libray_search)
+### [공공도서관 통합 플랫폼] (https://github.com/BAE-JI-WANG/Libray_search)
 
