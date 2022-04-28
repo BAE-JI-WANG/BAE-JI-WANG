@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">  <!--rust-->
 <img src="https://img.shields.io/badge/c%23-007396?style=for-the-badge&logo=Csharp&logoColor=white">  <!--c#-->
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">  <!--자바-->
 
 ### Tools
 
