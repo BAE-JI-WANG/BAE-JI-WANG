@@ -7,6 +7,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Jiwang%20BAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
+<div align=center><h1>Career & Academy</h1></div>
+<h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
+<h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08 : Basic learning of development language(C, C#, Java, Python, R) -> https://github.com/BAE-JI-WANG/Libray_search</h3>
+<h3>HuStar ICT Innovation Academy - 2018.10 ~ 2021.01 : Learning of Android App, FirmWare, HardWare -> https://github.com/BAE-JI-WANG/whenToEat, https://github.com/BAE-JI-WANG/SatetyAll_HW-FW</h3>
+<h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ Now : Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h3> 
+
+<div align=center><h1>Awards</h1></div>
+<h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award -> https://github.com/BAE-JI-WANG/SatetyAll_HW-FW</h3> 
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 ### CSP
