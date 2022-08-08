@@ -9,6 +9,12 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 
+### CSP
+
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--azure-->
+
 ### Language
 
 <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">  <!--c-->
@@ -40,10 +46,6 @@
 <img src="https://img.shields.io/badge/.NET winform-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  <!--.Net -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <!--android-->
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
-
-### Cloud
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
 
 ### OS
 
