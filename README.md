@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--azure-->
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--GCP-->
 
 ### Language
 
@@ -45,7 +45,6 @@
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">  <!--firebase-->
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">  <!--mssql-->
 
 ### Framework
@@ -55,12 +54,6 @@
 <img src="https://img.shields.io/badge/.NET winform-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  <!--.Net -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <!--android-->
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
-
-### OS
-
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!--linux-->
-<img src="https://img.shields.io/badge/macOS-E34F26?style=for-the-badge&logo=macOS&logoColor=black"> <!--macos-->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=black"> <!--windows-->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true&theme=tokyonight)
