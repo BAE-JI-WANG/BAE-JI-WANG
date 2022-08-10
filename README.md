@@ -9,11 +9,12 @@
 
 <div align=center><h1>Career & Academy</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
+
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08 : Basic learning of development language(C, C#, Java, Python, R)</h3>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
-    <h4>Public library Information : https://github.com/BAE-JI-WANG/Libray_search (.Net Winform)</h4>
+    <h4><a href="https://github.com/BAE-JI-WANG/Libray_search">Public library Information</a>(.Net Winform)</h4>
   </div>
 </details>
 
@@ -21,15 +22,22 @@
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
-    <h4>Shelf life management : https://github.com/BAE-JI-WANG/whenToEat (Java Android App)</h4>
-    <h4>[Safety management IOT System H/W,F/W parts](https://github.com/BAE-JI-WANG/SatetyAll_HW-FW) (Front:React, Backend:PHP, F/W:C++,arduino)</h4>
+    <h4><a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
+    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
   </div>
 </details>
 
 <h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ Now : Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h3> 
 
 <div align=center><h1>Awards</h1></div>
-<h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award -> https://github.com/BAE-JI-WANG/SatetyAll_HW-FW</h3> 
+<h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
+<h4>Role : LAMP Stack Backend & HW,FW</h4>
+<details>
+  <summary style="color:red">Related project</summary>
+  <div markdown="1">
+    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
+  </div>
+</details>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
