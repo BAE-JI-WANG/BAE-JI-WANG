@@ -18,7 +18,7 @@
   </div>
 </details>
 
-<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02 : Learning of Android App, FirmWare, HardWare -> , </h3>
+<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02 : Learning of Android App, FirmWare, HardWare</h3>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
