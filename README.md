@@ -28,6 +28,12 @@
 </details>
 
 <h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ Now : Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h3> 
+<details>
+  <summary style="color:red">Related project</summary>
+  <div markdown="1">
+    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
+  </div>
+</details>
 
 <div align=center><h1>Awards</h1></div>
 <h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
