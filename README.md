@@ -10,7 +10,8 @@
 <div align=center><h1>Career & Academy</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
 
-<h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08 : Basic learning of development language(C, C#, Java, Python, R)</h3>
+<h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
+<h4>Basic learning of development language(C, C#, Java, Python, R)</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
@@ -18,7 +19,8 @@
   </div>
 </details>
 
-<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02 : Learning of Android App, FirmWare, HardWare</h3>
+<h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02</h3>
+<h4>Learning of Android App, FirmWare, HardWare</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
@@ -27,7 +29,8 @@
   </div>
 </details>
 
-<h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ Now : Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h3> 
+<h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ Now</h3> 
+<h4>Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
 <details>
   <summary style="color:red">Related project</summary>
   <div markdown="1">
