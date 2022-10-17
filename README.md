@@ -85,10 +85,14 @@
 <img src="https://img.shields.io/badge/.NET winform-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  <!--.Net -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <!--android-->
 
-### Open Source
+### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--terraform-->
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--terraform-->
+
+### Container
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
+
+### Orchestration
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&layout=compact&theme=tokyonight)
