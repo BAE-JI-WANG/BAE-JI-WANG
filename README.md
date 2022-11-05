@@ -9,7 +9,6 @@
 
 <div align=center><h1>Career & Academy</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
-
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
 <h4>Basic learning of development language(C, C#, Java, Python, R)</h4>
 <details>
@@ -47,6 +46,12 @@
     <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
   </div>
 </details>
+
+<div align=center><h1>Certificate</h1></div>
+<h3>Microsoft Certified: Azure Fundamentals</h3> 
+
+![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 
