@@ -92,6 +92,8 @@
 
 ### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform-->
+
+### Provisioning
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white">  <!--ansible-->
 
 
