@@ -96,6 +96,9 @@
 ### Provisioning
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white">  <!--ansible-->
 
+### CI/CD
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
+
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
