@@ -35,6 +35,9 @@
   <div markdown="1">
     <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
   </div>
+  <div markdown="1">
+    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
+  </div>
 </details>
 
 <div align=center><h1>Awards</h1></div>
