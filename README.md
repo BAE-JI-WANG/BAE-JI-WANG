@@ -119,8 +119,8 @@
 ### Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&layout=compact&theme=tokyonight)
+![jiwang's github stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&theme=vue&show_icons=true&hide_border=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BAE-JI-WANG)](https://github.com/ryo-ma/github-profile-trophy)
 
