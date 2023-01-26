@@ -58,6 +58,9 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 
+<img width="1440" alt="포트폴리오 기술 정리" src="https://user-images.githubusercontent.com/59479926/214762842-75305c2b-6246-45a7-b73d-3dd5cd1f0568.png">
+
+
 ### CSP
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
