@@ -58,7 +58,7 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 
-<img width="1440" alt="포트폴리오 기술 정리" src="https://user-images.githubusercontent.com/59479926/214762842-75305c2b-6246-45a7-b73d-3dd5cd1f0568.png">
+<img width="1440" alt="포트폴리오 기술정리 영어" src="https://user-images.githubusercontent.com/59479926/214764256-ed7eb5ad-434c-40e6-907f-0d5a03714bbf.png">
 
 
 ### CSP
