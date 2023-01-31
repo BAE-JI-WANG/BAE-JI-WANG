@@ -12,29 +12,31 @@
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
 <h4>- Basic learning of development language(C, C#, Java, Python, R)</h4>
 <!-- <details> -->
-  <summary style="color:red">Related project</summary>
+  <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
 <!--   <div markdown="1"> -->
-    <h4><a href="https://github.com/BAE-JI-WANG/Libray_search">Public library Information</a>(.Net Winform)</h4>
+    <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a href="https://github.com/BAE-JI-WANG/Libray_search">Public library Information</a>(.Net Winform)</h4>
 <!--  </div>
 </details> -->
 <br/>
 <h3>HuStar ICT Innovation Academy - 2021.09 ~ 2022.02</h3>
 <h4>- Learning of Android App, FirmWare, HardWare</h4>
-  <summary style="color:red">Related project</summary>
-  <h4><a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
-  <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
+<!--  <summary style="color:red">Related project</summary> -->
+
+  <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
+  <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
+  <h4>&nbsp;&nbsp;&nbsp;2.&nbsp;<a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
 <br/>
 <h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
 <h4>- Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
-  <summary style="color:red">Related project</summary>
-    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
-    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
+  <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
+    <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
+    <h4>&nbsp;&nbsp;&nbsp;2.&nbsp;<a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
 
 <div align=center><h1>Awards</h1></div>
 <h3>HuStar Daegu Innovation Academy Creative-Day Encouragement Award</h3>
 <h4>Role : LAMP Stack Backend & HW,FW</h4>
-  <summary style="color:red">Related project</summary>
-    <h4><a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
+  <h4 style="color:red">Related project</h4>
+    <h4>&nbsp;&nbsp;-&nbsp;<a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
 
 <div align=center><h1>Certificate</h1></div>
 <h3>Microsoft Certified: Azure Fundamentals</h3> 
