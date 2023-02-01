@@ -103,12 +103,14 @@
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=Fluentd&logoColor=white">  <!--Fluentd-->
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">  <!--Elasticsearch-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">  <!--Kibana-->
+<img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white">  <!--CloudWatch-->
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
 
 ### Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
+<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">  <!--k8s-->
 
 ![jiwang's github stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&theme=dracula&show_icons=true&hide_border=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
