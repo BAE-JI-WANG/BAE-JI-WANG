@@ -31,7 +31,7 @@
   <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a href="https://github.com/BAE-JI-WANG/whenToEat">Shelf life management</a>(Java Android App)</h4>
   <h4>&nbsp;&nbsp;&nbsp;2.&nbsp;<a href="https://github.com/BAE-JI-WANG/SatetyAll_HW-FW">Safety management IOT System H/W,F/W parts</a>(Front:React & Android App, Backend:PHP, F/W:C++,arduino)</h4>
 <br/>
-<h3>BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
+<h3>Cloud Youth Talent Training Course - 2022.05 ~ 2022.12</h3> 
 <h4>- Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
   <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
     <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
