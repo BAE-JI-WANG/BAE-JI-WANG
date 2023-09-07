@@ -7,8 +7,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Jiwang%20BAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align=center><h1>Career & Academy</h1></div>
+<div align=center><h1>Career</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
+
+<h3>BespinGlobal TechCenter - 2023.03 ~  : Technicla Architect</h3> 
+
+
+<div align=center><h1>Academy</h1></div>
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
 <h4>- Basic learning of development language(C, C#, Java, Python, R)</h4>
 <!-- <details> -->
