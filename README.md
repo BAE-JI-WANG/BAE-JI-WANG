@@ -10,8 +10,13 @@
 <div align=center><h1>Career</h1></div>
 <h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
 
-<h3>BespinGlobal TechCenter - 2023.03 ~  : Technicla Architect</h3> 
-
+<h3>BespinGlobal TechCenter - 2023.03 ~  : Technical Architect</h3> 
+<h4>- AWS Solutions Architect & Technical Arcitect</h4>
+  <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
+    <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a>Data Key Managed Service</a></h4>
+    <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role : Technical Architect</h4>
+    <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Period : 2023.05 ~ </h4>
+<br/>
 
 <div align=center><h1>Academy</h1></div>
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
