@@ -56,7 +56,7 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 
-<img width="1440" alt="포트폴리오 기술정리 영어" src="https://user-images.githubusercontent.com/59479926/214764256-ed7eb5ad-434c-40e6-907f-0d5a03714bbf.png">
+<img width="1440" alt="포트폴리오 기술정리 영어" src="https://github.com/BAE-JI-WANG/BAE-JI-WANG/assets/59479926/1a12223b-a5db-4b05-bab1-8ea9f1c49457">
 
 
 ### CSP
