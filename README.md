@@ -8,15 +8,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Jiwang%20BAE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>Career</h1></div>
-<h3>Woobo ENG - 2018.10 ~ 2021.01 : PowerSystem design engineer</h3> 
+<h3>Starlabs : 2024.03 ~ Now : Technical Architect (Senior)</h3> 
+<h3>BespinGlobal TechCenter : 2023.03 ~ 2024.03 : Technical Architect (Junior)</h3> 
+<h3>Woobo ENG : 2018.10 ~ 2021.01 : PowerSystem design engineer (Junior)</h3> 
 
-<h3>BespinGlobal TechCenter - 2023.03 ~  : Technical Architect</h3> 
-<h4>- AWS Solutions Architect & Technical Arcitect</h4>
-  <h4 style="color:red">&nbsp;&nbsp;&nbsp;Related project</h4>
-    <h4>&nbsp;&nbsp;&nbsp;1.&nbsp;<a>Data Key Managed Service</a></h4>
-    <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role : Technical Architect</h4>
-    <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Period : 2023.05 ~ </h4>
-<br/>
+<div align=center><h1>Project</h1></div>
+<h3>D-KMS : 2023.05 ~ Now</h3>
+<h4>- Dispatched work at the BespinGlobal from 2023.05 ~ 2024.03 </h4>
+<h4>- Dispatched work at the Samsung SDS from 2024.03 ~ Now </h4>
 
 <div align=center><h1>Academy</h1></div>
 <h3>[K-digital] Bigdata Developer training course - 2021.01 ~ 2021.08</h3>
