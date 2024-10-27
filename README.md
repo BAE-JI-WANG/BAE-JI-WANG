@@ -126,8 +126,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BAE-JI-WANG&title=MultiLanguage,Commit&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Profile views](https://gpvc.arturio.dev/BAE-JI-WANG)  
-
+![](https://komarev.com/ghpvc/?username=BAE-JI-WANG&abbreviated=true)
 ----
 
 ## 🔭 Project
