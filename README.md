@@ -60,9 +60,9 @@
 
 ### CSP
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <!--aws-->
-<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"> <!--azure-->
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!--aws-->
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> <!--azure-->
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <!--gcp-->
 
 ### Language
 
@@ -73,11 +73,11 @@
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <!--vscode-->
 <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <!--arduinoIDE-->
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <!--vs-->
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <!--eclipse-->
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <!--androidstudio-->
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <!--vs-->
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <!--eclipse-->
+<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"> <!--androidstudio-->
 <img src="https://img.shields.io/badge/AutoCad-007396?style=for-the-badge&logo=Autodesk&logoColor=white">  <!--오토캐드-->
 
 
@@ -85,7 +85,7 @@
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <!--oracle-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
-<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">  <!--mssql-->
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">  <!--mssql-->
 
 ### Framework
 
@@ -111,14 +111,12 @@
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=Fluentd&logoColor=white">  <!--Fluentd-->
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">  <!--Elasticsearch-->
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">  <!--Kibana-->
-<img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white">  <!--CloudWatch-->
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
 
 ### Orchestration
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
-<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=for-the-badge&logo=Amazon EKS&logoColor=white">  <!--k8s-->
 
 ![jiwang's github stats](https://github-readme-stats.vercel.app/api?username=BAE-JI-WANG&theme=dracula&show_icons=true&hide_border=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAE-JI-WANG&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
