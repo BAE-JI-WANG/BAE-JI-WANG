@@ -14,7 +14,7 @@
 
 <div align=center><h1>Project</h1></div>
 <h3>D-KMS : 2023.05 ~ Now</h3>
-<h4>- Dispatched work at the BespinGlobal from 2023.05 ~ 2024.03 </h4>
+<h4>- Work at the BespinGlobal Techcenter from 2023.05 ~ 2024.03 </h4>
 <h4>- Dispatched work at the Samsung SDS from 2024.03 ~ Now </h4>
 
 <div align=center><h1>Academy</h1></div>
